@@ -149,13 +149,15 @@ REST_FRAMEWORK = {
 CORS_ALLOWED_ORIGINS = [
     "https://azharfa.my.id",
     "https://www.azharfa.my.id",
-    "https://vercel.app"
+    "https://vercel.app",
+    "https://azharfaturohman.pythonanywhere.com"
 ]
 
 CSRF_TRUSTED_ORIGINS = [
     "https://azharfa.my.id",
     "https://www.azharfa.my.id",
-    "https://vercel.app"
+    "https://vercel.app",
+    "https://azharfaturohman.pythonanywhere.com"
 ]
 
 if DEBUG:
