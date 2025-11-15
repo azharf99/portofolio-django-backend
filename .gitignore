@@ -3,6 +3,8 @@ __pycache__/
 *.pyc
 media/
 mediafiles/
+staticfiles/
+static/
 .env
 db.sqlite3
 *.log
